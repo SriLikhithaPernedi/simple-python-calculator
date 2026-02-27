@@ -15,5 +15,5 @@ This program allows users to perform basic arithmetic operations by entering two
 2. Clone or download this repository.
 3. Run the script in your terminal:
    ```bash
-   python calculator.py
+   python (saved file name).py
 
